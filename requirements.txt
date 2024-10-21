@@ -1,0 +1,2 @@
+openvino-genai==2024.4.0
+rich
